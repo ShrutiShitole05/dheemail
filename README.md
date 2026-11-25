@@ -7,7 +7,7 @@ A web-based email management system built with Django. Users can create an accou
 - Create an account and log in securely
 - Compose and send emails
 - Receive emails in your inbox
-- Important emails are shown first
+
 
 ## Tech Stack
 
@@ -50,6 +50,17 @@ Python, Django, HTML, CSS, JavaScript, SQLite
    ```
 
 6. Open `http://127.0.0.1:8000/` in your browser and create an account to get started.
+
+## Screenshots
+
+### Login
+![Login](screenshots/login.png)
+
+### Sign up
+![Sign up](screenshots/signup.png)
+
+### Email view
+![Email view](screenshots/email-view.png)
 
 ## Project Structure
 
